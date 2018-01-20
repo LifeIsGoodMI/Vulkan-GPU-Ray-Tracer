@@ -9,3 +9,6 @@ Before you're running the solution, make sure to link LunarG's Vulkan SDK as wel
 When you're running the precompiled binary, make sure that the 'shader' folder is located in the same directory as the binary.
 
 **Note: I've tested the code only on Windows, it might not run correctly on any other operating system.**
+
+
+![alt text](https://raw.githubusercontent.com/GoGreenOrDieTryin/Vulkan-GPU-Ray-Tracer/master/Media/800x800px.png)
