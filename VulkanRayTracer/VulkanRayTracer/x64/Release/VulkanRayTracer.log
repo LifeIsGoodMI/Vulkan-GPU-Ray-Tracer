@@ -1,0 +1,36 @@
+﻿  Application.cpp
+Application.cpp(139): warning C4778: "fprintf": Nicht abgeschlossene Formatzeichenfolge "%".
+Application.cpp(157): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+Application.cpp(162): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+Application.cpp(374): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+Application.cpp(377): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+Application.cpp(381): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+Application.cpp(581): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+Application.cpp(599): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+Application.cpp(641): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+Application.cpp(778): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+Application.cpp(825): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+Application.cpp(888): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+Application.cpp(948): warning C4305: "Argument": Verkürzung von "double" in "float"
+Application.cpp(949): warning C4305: "Argument": Verkürzung von "double" in "float"
+Application.cpp(959): warning C4305: "Argument": Verkürzung von "double" in "float"
+Application.cpp(960): warning C4305: "Argument": Verkürzung von "double" in "float"
+Application.cpp(962): warning C4305: "Argument": Verkürzung von "double" in "float"
+Application.cpp(963): warning C4305: "Argument": Verkürzung von "double" in "float"
+Application.cpp(964): warning C4305: "Argument": Verkürzung von "double" in "float"
+Application.cpp(965): warning C4305: "Argument": Verkürzung von "double" in "float"
+Application.cpp(966): warning C4305: "Argument": Verkürzung von "double" in "float"
+Application.cpp(967): warning C4305: "Argument": Verkürzung von "double" in "float"
+  Main.cpp
+  QueueFamilyIndices.cpp
+  Material.cpp
+  Planee.cpp
+Scene\Planee.cpp(4): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  Sphere.cpp
+  Vector3.cpp
+Scene\Vector3.cpp(45): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+  SwapChainSupportInfo.cpp
+  Code wird generiert.
+  All 3044 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  VulkanRayTracer.vcxproj -> C:\Users\Mario\Documents\Visual Studio 2017\Projects\VulkanRayTracer\x64\Release\VulkanRayTracer.exe

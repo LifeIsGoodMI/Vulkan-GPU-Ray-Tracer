@@ -1,0 +1,24 @@
+﻿  Application.cpp
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(138): warning C4778: "fprintf": Nicht abgeschlossene Formatzeichenfolge "%".
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(156): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(161): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(370): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(373): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(377): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(577): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(595): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(637): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(770): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(817): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(880): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(940): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(941): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(951): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(952): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(954): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(955): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(956): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(957): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(958): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\mario\documents\visual studio 2017\projects\vulkanraytracer\vulkanraytracer\application.cpp(959): warning C4305: "Argument": Verkürzung von "double" in "float"
+  VulkanRayTracer.vcxproj -> C:\Users\Mario\Documents\Visual Studio 2017\Projects\VulkanRayTracer\x64\Debug\VulkanRayTracer.exe
