@@ -11,4 +11,4 @@ When you're running the precompiled binary, make sure that the 'shader' folder i
 **Note: I've tested the code only on Windows, it might not run correctly on any other operating system.**
 
 
-![alt text](https://raw.githubusercontent.com/GoGreenOrDieTryin/Vulkan-GPU-Ray-Tracer/master/Media/800x800px.png)
+![alt text](https://raw.githubusercontent.com/GoGreenOrDieTryin/Vulkan-GPU-Ray-Tracer/master/Media/1000x1000px.png)
